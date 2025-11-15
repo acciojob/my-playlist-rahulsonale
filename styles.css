@@ -29,3 +29,6 @@ h1,h2{
 .player_two{
 	margin-left:200px;
 }
+.player_one{
+	background-color:rgb(255, 255, 255); 
+}
