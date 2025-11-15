@@ -19,16 +19,21 @@ h1,h2{
 	margin-left:10px;
 }
 .audio-container{
-	width:700px;
+	width:720px;
 	height:550px;
 	border:2px solid black;
 	border-radius:10px;
 	padding:15px;
 	margin-left:50px;
 }
-.player_two{
-	margin-left:200px;
+
+.player_one,
+.player_two {
+  background-color: white;
+  padding: 10px; /* any value works */
+  border-radius: 10px; /* any value works */
+  display: block; /* recommended */
 }
-.player_one{
-	background-color:rgb(255, 255, 255); 
+a {
+  text-decoration: none;
 }
